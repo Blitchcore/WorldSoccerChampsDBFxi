@@ -2,7 +2,7 @@
 Fix Datapack using csv files from pro_datapack.zip and etc
 
 # Features
-- [x] fix using csv
+- [x] fix datapack using csv
 
 # Implementation
 1. Download script and paste in your directory.
