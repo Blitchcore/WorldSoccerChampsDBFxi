@@ -1,8 +1,13 @@
-# WORLDSOCCERCHAMPS DATABASE FIXER 
+# WORLDSOCCERCHAMPS DATABASE FIXERS
 Fix Datapack using csv files from pro_datapack.zip and etc
+There are also other scripts, more about them
+
+fixTactic.py : Changes tactics from 6 (4-5-1) to 4 (4-4-2)
+unlockAcademic.py : opens club academies
 
 # Features
 - [x] fix datapack using csv
+- [x] More scripts 
 
 # Implementation
 1. Download script and paste in your directory.
