@@ -1,5 +1,8 @@
 import sqlite3
 
+#Created by BLITCHCORE
+# github.com/blitchcore
+
 def abc(db_path):
     try:
         conn = sqlite3.connect(db_path)
@@ -16,6 +19,6 @@ def abc(db_path):
     finally:
         if conn:
             conn.close()
-
+print("github.com/blitchcore")
 path = input("void db name: ")#dbname
 abc(path)
