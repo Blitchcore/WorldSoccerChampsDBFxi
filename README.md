@@ -4,6 +4,7 @@ There are also other scripts, more about them
 
 fixTactic.py : Changes tactics from 6 (4-5-1) to 4 (4-4-2)
 unlockAcademic.py : opens club academies
+SetBigBalance.py : set Big balance to clubs
 
 # Features
 - [x] fix datapack using csv
