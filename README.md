@@ -1,16 +1,19 @@
 # WORLDSOCCERCHAMPS DATABASE FIXERS
 Fix Datapack using csv files from pro_datapack.zip and etc
+
+download latest pro datapack - https://www.monkeyibrowstudios.com/worldsoccerchamps-dp-local/pro_datapack_v71.zip  
 There are also other scripts, more about them
 
 fixTactic.py : Changes tactics from 6 (4-5-1) to 4 (4-4-2)
 unlockAcademic.py : opens club academies
 SetBigBalance.py : set Big balance to clubs
+QueryToDb.py : Activate your query to your db 
 
 # Features
 - [x] fix datapack using csv
 - [x] More scripts 
 
-# Implementation
+# Implementation FIXER
 1. Download script and paste in your directory.
 2. Download pro_datapack.zip from WSC
 3. Add CSV files to the CSV script folder
